@@ -1,0 +1,1 @@
+"use strict";exports.id=948,exports.ids=[948],exports.modules={80948:(e,r,_)=>{_.r(r),_.d(r,{default:()=>__WEBPACK_DEFAULT_EXPORT__});var s=_(9885),t=_(76118),i=_(9574);let __WEBPACK_DEFAULT_EXPORT__=()=>((0,s.useEffect)(()=>{window.innerWidth>=992&&t.gsap.registerPlugin(i.ScrollTrigger)},[]),null)}};
